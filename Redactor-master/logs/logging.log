@@ -1,0 +1,332 @@
+2019-11-12 09:11:11 INFO  TextParser:17 - Text read
+2019-11-12 09:11:11 INFO  TextParser:50 - Sorted by size of sentence
+2019-11-12 09:11:11 INFO  TextParser:12 - Information output
+2019-11-12 09:11:37 INFO  TextParser:17 - Text read
+2019-11-12 09:11:37 INFO  TextParser:50 - Sorted by size of sentence
+2019-11-12 09:11:37 INFO  TextParser:12 - Information output
+2019-11-12 09:11:45 INFO  TextParser:17 - Text read
+2019-11-12 09:11:45 INFO  TextParser:50 - Sorted by size of sentence
+2019-11-12 09:11:45 INFO  TextParser:12 - Information output
+2019-11-12 09:11:51 INFO  TextParser:17 - Text read
+2019-11-12 09:11:51 INFO  TextParser:50 - Sorted by size of sentence
+2019-11-12 09:11:51 INFO  TextParser:12 - Information output
+2019-11-12 10:28:30 INFO  TextParser:17 - Text read
+2019-11-12 10:28:30 INFO  TextParser:50 - Sorted by size of sentence
+2019-11-13 22:32:17 INFO  TextParser:17 - Text read
+2019-11-13 22:32:17 INFO  TextParser:50 - Sorted by size of sentence
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-13 23:59:34 INFO  TextParser:21 - Text read
+2019-11-14 17:40:46 INFO  InputFromFile:15 - Text read
+2019-11-14 17:40:46 INFO  OutputInConsole:12 - Information output
+2019-11-16 11:45:31 INFO  InputFromFile:24 - Text read
+2019-11-16 11:45:31 INFO  OutputInConsole:9 - Information output
+2019-11-16 11:53:11 INFO  InputFromFile:22 - Text read
+2019-11-16 11:53:20 INFO  OutputInConsole:10 - Information output
+2019-11-16 11:53:28 INFO  InputFromFile:22 - Text read
+2019-11-16 11:53:44 INFO  OutputInConsole:10 - Information output
+2019-11-16 11:54:03 INFO  InputFromFile:22 - Text read
+2019-11-16 11:54:03 INFO  OutputInConsole:10 - Information output
+2019-11-16 11:55:44 INFO  InputFromFile:22 - Text read
+2019-11-16 11:55:44 INFO  OutputInConsole:10 - Information output
+2019-11-16 17:32:19 INFO  InputFromFile:22 - Text read
+2019-11-16 17:32:19 INFO  Redactor:12 - Sorted by size of sentence
+2019-11-16 17:46:37 INFO  InputFromFile:22 - Text read
+2019-11-16 17:46:37 INFO  Redactor:12 - Sorted by size of sentence
+2019-11-17 22:20:38 INFO  InputFromFile:23 - Text read
+2019-11-17 22:20:38 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:20:54 INFO  InputFromFile:23 - Text read
+2019-11-17 22:20:54 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:24:20 INFO  InputFromFile:23 - Text read
+2019-11-17 22:24:20 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:24:44 INFO  InputFromFile:23 - Text read
+2019-11-17 22:24:44 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:26:04 INFO  InputFromFile:23 - Text read
+2019-11-17 22:26:04 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:29:28 INFO  InputFromFile:23 - Text read
+2019-11-17 22:29:28 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:29:43 INFO  InputFromFile:23 - Text read
+2019-11-17 22:30:16 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:30:27 INFO  InputFromFile:23 - Text read
+2019-11-17 22:30:27 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:42:33 INFO  InputFromFile:23 - Text read
+2019-11-17 22:42:33 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:42:50 INFO  InputFromFile:23 - Text read
+2019-11-17 22:42:50 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:43:00 INFO  InputFromFile:23 - Text read
+2019-11-17 22:43:00 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:43:09 INFO  InputFromFile:23 - Text read
+2019-11-17 22:43:09 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:43:21 INFO  InputFromFile:23 - Text read
+2019-11-17 22:43:37 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:46:51 INFO  InputFromFile:23 - Text read
+2019-11-17 22:47:08 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:47:25 INFO  InputFromFile:23 - Text read
+2019-11-17 22:47:25 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:47:31 INFO  InputFromFile:23 - Text read
+2019-11-17 22:48:12 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:49:32 INFO  InputFromFile:23 - Text read
+2019-11-17 22:49:32 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:49:39 INFO  InputFromFile:23 - Text read
+2019-11-17 22:53:00 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:53:28 INFO  InputFromFile:23 - Text read
+2019-11-17 22:53:28 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:54:06 INFO  InputFromFile:23 - Text read
+2019-11-17 22:54:06 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:54:39 INFO  InputFromFile:23 - Text read
+2019-11-17 22:54:39 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:55:56 INFO  InputFromFile:23 - Text read
+2019-11-17 22:55:56 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:56:06 INFO  InputFromFile:23 - Text read
+2019-11-17 22:56:06 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:56:17 INFO  InputFromFile:23 - Text read
+2019-11-17 22:56:17 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:56:32 INFO  InputFromFile:23 - Text read
+2019-11-17 22:56:32 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:58:41 INFO  InputFromFile:23 - Text read
+2019-11-17 22:58:41 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:59:01 INFO  InputFromFile:23 - Text read
+2019-11-17 22:59:01 INFO  OutputInConsole:11 - Information output
+2019-11-17 22:59:08 INFO  InputFromFile:23 - Text read
+2019-11-17 23:00:19 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:01:25 INFO  InputFromFile:23 - Text read
+2019-11-17 23:01:25 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:01:31 INFO  InputFromFile:23 - Text read
+2019-11-17 23:01:46 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:02:00 INFO  InputFromFile:23 - Text read
+2019-11-17 23:03:35 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:03:52 INFO  InputFromFile:23 - Text read
+2019-11-17 23:03:52 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:20:16 INFO  InputFromFile:23 - Text read
+2019-11-17 23:21:58 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:22:38 INFO  InputFromFile:23 - Text read
+2019-11-17 23:22:41 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:23:42 INFO  InputFromFile:23 - Text read
+2019-11-17 23:23:53 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:24:39 INFO  InputFromFile:23 - Text read
+2019-11-17 23:25:06 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:32:42 INFO  InputFromFile:23 - Text read
+2019-11-17 23:34:57 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:35:00 INFO  InputFromFile:23 - Text read
+2019-11-17 23:35:14 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:35:24 INFO  InputFromFile:23 - Text read
+2019-11-17 23:35:38 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:39:06 INFO  InputFromFile:23 - Text read
+2019-11-17 23:39:34 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:40:04 INFO  InputFromFile:23 - Text read
+2019-11-17 23:40:40 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:47:49 INFO  InputFromFile:23 - Text read
+2019-11-17 23:49:45 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:55:51 INFO  InputFromFile:23 - Text read
+2019-11-17 23:55:51 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:56:13 INFO  InputFromFile:23 - Text read
+2019-11-17 23:56:30 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:57:25 INFO  InputFromFile:23 - Text read
+2019-11-17 23:57:25 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:57:48 INFO  InputFromFile:23 - Text read
+2019-11-17 23:57:48 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:58:38 INFO  InputFromFile:23 - Text read
+2019-11-17 23:58:38 INFO  OutputInConsole:11 - Information output
+2019-11-17 23:58:53 INFO  InputFromFile:23 - Text read
+2019-11-18 00:00:24 INFO  OutputInConsole:11 - Information output
+2019-11-18 00:01:17 INFO  InputFromFile:23 - Text read
+2019-11-18 00:02:14 INFO  OutputInConsole:11 - Information output
+2019-11-18 00:02:44 INFO  InputFromFile:23 - Text read
+2019-11-18 00:02:45 INFO  OutputInConsole:11 - Information output
+2019-11-18 00:02:49 INFO  InputFromFile:23 - Text read
+2019-11-18 00:02:49 INFO  OutputInConsole:11 - Information output
+2019-11-18 00:03:49 INFO  InputFromFile:23 - Text read
+2019-11-18 00:03:49 INFO  OutputInConsole:11 - Information output
+2019-11-18 00:04:10 INFO  InputFromFile:23 - Text read
+2019-11-18 00:04:18 INFO  OutputInConsole:11 - Information output
+2019-11-18 00:04:31 INFO  InputFromFile:23 - Text read
+2019-11-18 00:04:31 INFO  OutputInConsole:11 - Information output
+2019-11-18 00:04:42 INFO  InputFromFile:23 - Text read
+2019-11-18 23:15:19 INFO  OutputInConsole:11 - Information output
+2019-11-18 23:15:32 INFO  InputFromFile:23 - Text read
+2019-11-18 23:19:29 INFO  OutputInConsole:11 - Information output
+2019-11-18 23:19:38 INFO  InputFromFile:23 - Text read
+2019-11-18 23:23:11 INFO  OutputInConsole:11 - Information output
+2019-11-18 23:24:11 INFO  InputFromFile:23 - Text read
+2019-11-18 23:24:11 INFO  OutputInConsole:11 - Information output
+2019-11-18 23:28:37 INFO  InputFromFile:23 - Text read
+2019-11-18 23:28:37 INFO  OutputInConsole:11 - Information output
+2019-11-18 23:29:15 INFO  InputFromFile:23 - Text read
+2019-11-18 23:29:15 INFO  OutputInConsole:11 - Information output
+2019-11-18 23:30:00 INFO  InputFromFile:23 - Text read
+2019-11-18 23:30:00 INFO  OutputInConsole:11 - Information output
+2019-11-18 23:30:15 INFO  InputFromFile:23 - Text read
+2019-11-18 23:30:15 INFO  OutputInConsole:11 - Information output
+2019-11-18 23:30:27 INFO  InputFromFile:23 - Text read
+2019-11-18 23:30:27 INFO  OutputInConsole:11 - Information output
+2019-11-18 23:30:43 INFO  InputFromFile:23 - Text read
+2019-11-18 23:30:43 INFO  OutputInConsole:11 - Information output
+2019-11-18 23:49:14 INFO  InputFromFile:23 - Text read
+2019-11-18 23:49:14 INFO  OutputInConsole:11 - Information output
+2019-11-18 23:50:42 INFO  InputFromFile:23 - Text read
+2019-11-18 23:50:42 INFO  OutputInConsole:11 - Information output
+2019-11-18 23:50:50 INFO  InputFromFile:23 - Text read
+2019-11-18 23:51:18 INFO  OutputInConsole:11 - Information output
+2019-11-19 00:12:30 INFO  InputFromFile:23 - Text read
+2019-11-19 00:12:30 INFO  OutputInConsole:11 - Information output
+2019-11-19 00:55:30 INFO  InputFromFile:23 - Text read
+2019-11-19 00:55:43 INFO  OutputInConsole:11 - Information output
+2019-11-19 00:55:43 INFO  InputFromFile:23 - Text read
+2019-11-19 00:55:43 INFO  Redactor:12 - Sorted by size of sentence
+2019-11-19 00:55:49 INFO  InputFromFile:23 - Text read
+2019-11-19 00:55:50 INFO  OutputInConsole:11 - Information output
+2019-11-19 00:55:50 INFO  InputFromFile:23 - Text read
+2019-11-19 00:55:50 INFO  Redactor:12 - Sorted by size of sentence
+2019-11-19 00:57:56 INFO  InputFromFile:23 - Text read
+2019-11-19 00:57:57 INFO  OutputInConsole:11 - Information output
+2019-11-19 00:57:57 INFO  InputFromFile:23 - Text read
+2019-11-19 00:57:57 INFO  Redactor:12 - Sorted by size of sentence
+2019-11-19 00:59:18 INFO  InputFromFile:23 - Text read
+2019-11-19 00:59:18 INFO  OutputInConsole:11 - Information output
+2019-11-19 00:59:18 INFO  InputFromFile:23 - Text read
+2019-11-19 00:59:18 INFO  Redactor:12 - Sorted by size of sentence
+2019-11-19 00:59:35 INFO  InputFromFile:23 - Text read
+2019-11-19 00:59:35 INFO  OutputInConsole:11 - Information output
+2019-11-19 00:59:35 INFO  InputFromFile:23 - Text read
+2019-11-19 00:59:35 INFO  Redactor:12 - Sorted by size of sentence
+2019-11-19 01:02:24 INFO  InputFromFile:23 - Text read
+2019-11-19 01:02:24 INFO  OutputInConsole:11 - Information output
+2019-11-19 01:02:24 INFO  InputFromFile:23 - Text read
+2019-11-19 01:02:24 INFO  Redactor:12 - Sorted by size of sentence
+2019-11-19 19:48:50 INFO  InputFromFile:23 - Text read
+2019-11-19 19:48:50 INFO  OutputInConsole:11 - Information output
+2019-11-19 19:48:50 INFO  InputFromFile:23 - Text read
+2019-11-19 19:48:50 INFO  Redactor:12 - Sorted by size of sentence
+2019-11-19 21:01:01 INFO  InputFromFile:23 - Text read
+2019-11-19 21:01:01 INFO  OutputInConsole:11 - Information output
+2019-11-19 21:01:01 INFO  InputFromFile:23 - Text read
+2019-11-19 21:01:01 INFO  Redactor:13 - Sorted by size of sentence
+2019-11-19 21:01:12 INFO  InputFromFile:23 - Text read
+2019-11-19 21:01:12 INFO  OutputInConsole:11 - Information output
+2019-11-19 21:01:12 INFO  InputFromFile:23 - Text read
+2019-11-19 21:01:12 INFO  Redactor:13 - Sorted by size of sentence
+2019-11-19 21:02:25 INFO  InputFromFile:23 - Text read
+2019-11-19 21:02:25 INFO  OutputInConsole:11 - Information output
+2019-11-19 21:02:25 INFO  InputFromFile:23 - Text read
+2019-11-19 21:02:25 INFO  Redactor:13 - Sorted by size of sentence
+2019-11-19 21:02:52 INFO  InputFromFile:23 - Text read
+2019-11-19 21:02:52 INFO  OutputInConsole:11 - Information output
+2019-11-19 21:02:52 INFO  InputFromFile:23 - Text read
+2019-11-19 21:02:52 INFO  Redactor:13 - Sorted by size of sentence
+2019-11-19 21:03:34 INFO  InputFromFile:23 - Text read
+2019-11-19 21:03:34 INFO  OutputInConsole:11 - Information output
+2019-11-19 21:03:34 INFO  InputFromFile:23 - Text read
+2019-11-19 21:03:34 INFO  Redactor:13 - Sorted by size of sentence
+2019-11-19 21:04:38 INFO  InputFromFile:23 - Text read
+2019-11-19 21:04:38 INFO  OutputInConsole:11 - Information output
+2019-11-19 21:04:38 INFO  InputFromFile:23 - Text read
+2019-11-19 21:04:38 INFO  Redactor:13 - Sorted by size of sentence
+2019-11-19 21:04:52 INFO  InputFromFile:23 - Text read
+2019-11-19 21:04:52 INFO  OutputInConsole:11 - Information output
+2019-11-19 21:04:52 INFO  InputFromFile:23 - Text read
+2019-11-19 21:04:52 INFO  Redactor:13 - Sorted by size of sentence
+2019-11-19 21:05:45 INFO  InputFromFile:23 - Text read
+2019-11-19 21:05:45 INFO  OutputInConsole:11 - Information output
+2019-11-19 21:05:45 INFO  InputFromFile:23 - Text read
+2019-11-19 21:05:45 INFO  Redactor:13 - Sorted by size of sentence
+2019-11-19 21:05:52 INFO  InputFromFile:23 - Text read
+2019-11-19 21:05:52 INFO  OutputInConsole:11 - Information output
+2019-11-19 21:05:52 INFO  InputFromFile:23 - Text read
+2019-11-19 21:05:52 INFO  Redactor:13 - Sorted by size of sentence
+2019-11-20 08:44:54 INFO  InputFromFile:23 - Text read
+2019-11-20 08:45:38 INFO  InputFromFile:23 - Text read
+2019-11-20 08:45:38 INFO  OutputInConsole:11 - Information output
+2019-11-20 08:46:23 INFO  InputFromFile:23 - Text read
+2019-11-20 08:46:23 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 08:48:12 INFO  InputFromFile:23 - Text read
+2019-11-20 08:48:12 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 12:57:25 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 12:59:10 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 12:59:41 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 13:00:28 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 15:22:28 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 15:23:36 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 15:24:29 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 15:24:44 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 15:43:33 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 15:44:57 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 15:51:58 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 15:52:31 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 15:53:40 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 15:54:24 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 15:55:26 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 15:56:14 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 15:57:32 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 16:10:42 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 16:11:19 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 16:11:48 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 18:09:21 INFO  InputFromFile:13 - File open
+2019-11-20 18:09:21 INFO  InputFromFile:24 - Text read
+2019-11-20 18:09:21 INFO  OutputInConsole:11 - Information output
+2019-11-20 18:09:59 INFO  InputFromFile:13 - File open
+2019-11-20 18:09:59 INFO  InputFromFile:24 - Text read
+2019-11-20 18:09:59 INFO  OutputInConsole:11 - Information output
+2019-11-20 18:10:04 INFO  InputFromFile:13 - File open
+2019-11-20 18:10:04 INFO  InputFromFile:24 - Text read
+2019-11-20 18:10:04 INFO  OutputInConsole:11 - Information output
+2019-11-20 18:10:46 INFO  InputFromFile:13 - File open
+2019-11-20 18:10:46 INFO  InputFromFile:24 - Text read
+2019-11-20 18:10:46 INFO  OutputInConsole:11 - Information output
+2019-11-20 18:11:04 INFO  InputFromFile:13 - File open
+2019-11-20 18:11:04 INFO  InputFromFile:24 - Text read
+2019-11-20 18:11:04 INFO  OutputInConsole:11 - Information output
+2019-11-20 18:11:04 INFO  InputFromFile:13 - File open
+2019-11-20 18:11:04 INFO  InputFromFile:24 - Text read
+2019-11-20 18:11:04 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 18:11:44 INFO  InputFromFile:13 - File open
+2019-11-20 18:11:44 INFO  InputFromFile:24 - Text read
+2019-11-20 18:11:44 INFO  OutputInConsole:11 - Information output
+2019-11-20 18:11:44 INFO  InputFromFile:13 - File open
+2019-11-20 18:11:44 INFO  InputFromFile:24 - Text read
+2019-11-20 18:11:44 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-20 18:27:43 INFO  InputFromFile:13 - File open
+2019-11-20 18:27:43 INFO  InputFromFile:24 - Text read
+2019-11-20 18:27:43 INFO  OutputInConsole:11 - Information output
+2019-11-20 18:27:43 INFO  InputFromFile:13 - File open
+2019-11-20 18:27:43 INFO  InputFromFile:24 - Text read
+2019-11-20 18:27:43 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-22 15:19:33 INFO  InputFromFile:13 - File open
+2019-11-22 15:19:33 INFO  InputFromFile:24 - Text read
+2019-11-22 15:19:33 INFO  TextParser:21 - Text parsed
+2019-11-22 15:19:33 INFO  OutputInConsole:11 - Information output
+2019-11-22 15:19:33 INFO  InputFromFile:13 - File open
+2019-11-22 15:19:33 INFO  InputFromFile:24 - Text read
+2019-11-22 15:19:33 INFO  TextParser:21 - Text parsed
+2019-11-22 15:19:33 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-22 15:28:55 INFO  InputFromFile:13 - File open
+2019-11-22 15:28:55 INFO  InputFromFile:24 - Text read
+2019-11-22 15:28:55 INFO  TextParser:21 - Text parsed
+2019-11-22 15:28:55 INFO  OutputInConsole:11 - Information output
+2019-11-22 15:28:55 INFO  InputFromFile:13 - File open
+2019-11-22 15:28:55 INFO  InputFromFile:24 - Text read
+2019-11-22 15:28:55 INFO  TextParser:21 - Text parsed
+2019-11-22 15:28:55 INFO  Redactor:14 - Sorted by size of sentence
+2019-11-22 15:35:13 INFO  InputFromFile:13 - File open
+2019-11-22 15:35:13 INFO  InputFromFile:24 - Text read
+2019-11-22 15:35:13 INFO  TextParser:21 - Text parsed
+2019-11-22 15:35:13 INFO  OutputInConsole:11 - Information output
+2019-11-22 15:35:13 INFO  InputFromFile:13 - File open
+2019-11-22 15:35:13 INFO  InputFromFile:24 - Text read
+2019-11-22 15:35:13 INFO  TextParser:21 - Text parsed
+2019-11-22 15:35:13 INFO  Redactor:14 - Sorted by size of sentence
